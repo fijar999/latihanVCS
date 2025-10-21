@@ -9,5 +9,12 @@ Kelas : TI.25.A.2
 - Jika belum memliki akun GitHub, daftar terlebih dahulu
 
 ## instalasi Git
-1. Jalankan file isntalasi Git
-2. Maka akan tampil dialog instalasi Git, lalu klik **Berikutnya**
+- Langkah Pertama
+1. Pastikan anda masuk ke web resmi [klik disini](https://git-scm.com/install/).
+2. Kemuadian pilih versi sesuai dengan device yang kalian gunakan
+- Langkah Kedua
+1. Setelah muncul seperti ini : ![alt text](d:\latihanVCS\tutorial instalasi git\kedua-pilih-on-the-dekstop-jika-ingin-menampilkan-di-dekstop.png)
+Lalu pilih "on the dekstop" jika kamu ingin menampilkan aplikasi *git bash* di tampilan dekstop.
+Setelah itu klik *next*
+- Langkah Ketiga
+1. jika muncul tampilan seperti ini : ![alt text](d:\latihanVCS\tutorial instalasi git\ketiga-klik-browse-untuk-menentukan-lokasi-penyimpanan.png)
