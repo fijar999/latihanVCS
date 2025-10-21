@@ -10,4 +10,4 @@ Kelas : TI.25.A.2
 
 ## instalasi Git
 1. Pastikan anda masuk ke web resmi [klik disini](https://git-scm.com/install/).
-2. Pastikan urutan peng-instalan sesuai dengan reka-an foto yang terlampir
+2. Pastikan urutan peng-instalan sesuai dengan reka-an foto yang terlampir pada berkas *tutorial instalasi git*
