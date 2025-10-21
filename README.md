@@ -9,12 +9,5 @@ Kelas : TI.25.A.2
 - Jika belum memliki akun GitHub, daftar terlebih dahulu
 
 ## instalasi Git
-- Langkah Pertama
-1. Pastikan anda masuk ke web resmi [klik disini](https://git-scm.com/install/). [gambar](tutorial instalasi git/pertama. masuk ke web resmi git bash.png)
-2. Kemuadian pilih versi sesuai dengan device yang kalian gunakan
-- Langkah Kedua
-1. Setelah muncul seperti ini :
-Lalu pilih "on the dekstop" jika kamu ingin menampilkan aplikasi *git bash* di tampilan dekstop.
-Setelah itu klik *next*
-- Langkah Ketiga
-1. jika muncul tampilan seperti ini :
+1. Pastikan anda masuk ke web resmi [klik disini](https://git-scm.com/install/).
+2. Pastikan urutan peng-instalan sesuai dengan reka-an foto yang terlampir
